@@ -9,10 +9,10 @@ nano /etc/bind/named.conf.local
 - edit menjadi allow-transfer seperti gambar dibawah ini
 ![named.conf.local](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2011/Assets/1.png)
 
-## 2. Edit file /var/cache/bind9/kampus-07.takehome-forward
+## 2. Edit file /var/cache/bind9/kampus-09.takehome-forward
 - Jalankan perintah berikut untuk akses edit
 ```
-nano /var/cache/bind9/kampus-07.takehome-forward
+nano /var/cache/bind9/kampus-09.takehome-forward
 ```
 - edit menjadi 10.252.108.10 seperti gambar dibawah ini
 ![forward](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2011/Assets/2.png)
